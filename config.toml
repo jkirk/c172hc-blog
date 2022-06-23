@@ -1,0 +1,4 @@
+baseURL = 'http://c172hc.syn-net.org'
+languageCode = 'en-us'
+title = 'C172HC: Cessna 172 Home Cockpit Project'
+theme = "dimension"
